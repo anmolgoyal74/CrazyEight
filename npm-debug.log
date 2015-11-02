@@ -1,0 +1,126 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '--save',
+1 verbose cli   'package.json' ]
+2 info using npm@2.11.2
+3 info using node@v0.12.5
+4 verbose install initial load of /home/cic/Desktop/CrazyEight-master/package.json
+5 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/async/package.json
+6 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/bcrypt-nodejs/package.json
+7 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/bitgo/package.json
+8 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/blessed/package.json
+9 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/body-parser/package.json
+10 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/chai/package.json
+11 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/cheerio/package.json
+12 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/clockwork/package.json
+13 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/compression/package.json
+14 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/connect-assets/package.json
+15 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/connect-mongo/package.json
+16 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/cookie-parser/package.json
+17 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/crypto-js/package.json
+18 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/csso/package.json
+19 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/errorhandler/package.json
+20 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/express/package.json
+21 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/express-flash/package.json
+22 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/express-session/package.json
+23 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/express-validator/package.json
+24 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/fbgraph/package.json
+25 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/github-api/package.json
+26 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/instagram-node/package.json
+27 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/jade/package.json
+28 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/lastfm/package.json
+29 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/less/package.json
+30 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/lob/package.json
+31 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/lodash/package.json
+32 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/lusca/package.json
+33 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/method-override/package.json
+34 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/mocha/package.json
+35 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/mongoose/package.json
+36 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/morgan/package.json
+37 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/multer/package.json
+38 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/multiline/package.json
+39 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/node-foursquare/package.json
+40 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/node-linkedin/package.json
+41 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/nodemailer/package.json
+42 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/passport/package.json
+43 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/passport-facebook/package.json
+44 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/passport-github/package.json
+45 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/passport-google-oauth/package.json
+46 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/passport-instagram/package.json
+47 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/passport-linkedin-oauth2/package.json
+48 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/passport-local/package.json
+49 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/passport-oauth/package.json
+50 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/passport-twitter/package.json
+51 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/paypal-rest-sdk/package.json
+52 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/request/package.json
+53 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/serve-favicon/package.json
+54 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/socket.io/package.json
+55 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/stripe/package.json
+56 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/supertest/package.json
+57 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/tumblr.js/package.json
+58 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/twilio/package.json
+59 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/twit/package.json
+60 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/uglify-js/package.json
+61 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/validator/package.json
+62 verbose installManyTop reading scoped package data from /home/cic/Desktop/CrazyEight-master/node_modules/yui/package.json
+63 info package.json bcrypt-nodejs@0.0.3 No license field.
+64 info package.json bitgo@0.11.22 No license field.
+65 info package.json clockwork@0.1.0 No license field.
+66 info package.json blessed@0.1.15 No license field.
+67 info package.json connect-mongo@0.8.2 No license field.
+68 info package.json connect-assets@4.8.0 No license field.
+69 info package.json express-flash@0.0.2 No license field.
+70 info package.json instagram-node@0.5.7 No license field.
+71 info package.json github-api@0.10.6 license should be a valid SPDX license expression
+72 info package.json lob@3.4.0 No license field.
+73 info package.json lusca@1.3.0 No license field.
+74 info package.json fbgraph@1.0.0 No license field.
+75 info package.json node-foursquare@0.3.0 No license field.
+76 info package.json passport-facebook@2.0.0 No license field.
+77 info package.json passport-github@0.1.5 No license field.
+78 info package.json passport-instagram@0.1.2 No license field.
+79 info package.json passport-local@1.0.0 No license field.
+80 info package.json passport-twitter@1.0.3 No license field.
+81 info package.json paypal-rest-sdk@1.6.0 No license field.
+82 info package.json passport-oauth@1.0.0 No license field.
+83 info package.json tumblr.js@0.0.5 No license field.
+84 info package.json twit@2.1.0 No license field.
+85 info package.json passport-google-oauth@0.2.0 No license field.
+86 info package.json uglify-js@2.4.24 license should be a valid SPDX license expression
+87 info package.json yui@3.18.1 No license field.
+88 info package.json socket.io@1.3.6 No license field.
+89 verbose readDependencies loading dependencies from /home/cic/Desktop/CrazyEight-master/package.json
+90 silly cache add args [ 'package.json', null ]
+91 verbose cache add spec package.json
+92 silly cache add parsed spec { raw: 'package.json',
+92 silly cache add   scope: null,
+92 silly cache add   name: null,
+92 silly cache add   rawSpec: 'package.json',
+92 silly cache add   spec: '/home/cic/Desktop/CrazyEight-master/package.json',
+92 silly cache add   type: 'local' }
+93 silly addLocalTarball shasum (computed) a0ec1f6d89b4dfb302a0a0a94407722eb0c4d23e
+94 verbose addTmpTarball /home/cic/Desktop/CrazyEight-master/package.json not in flight; adding
+95 verbose addTmpTarball validating metadata from /home/cic/Desktop/CrazyEight-master/package.json
+96 verbose tar unpack /home/cic/Desktop/CrazyEight-master/package.json
+97 verbose tar unpacking to /tmp/npm-7210-50d371d7/unpack-94bc265aeea4
+98 silly gentlyRm /tmp/npm-7210-50d371d7/unpack-94bc265aeea4 is being purged
+99 verbose gentlyRm don't care about contents; nuking /tmp/npm-7210-50d371d7/unpack-94bc265aeea4
+100 silly gunzTarPerm modes [ '775', '664' ]
+101 error not a package /home/cic/Desktop/CrazyEight-master/package.json
+102 error addLocal Could not install /home/cic/Desktop/CrazyEight-master/package.json
+103 verbose stack Error: ENOENT, open '/tmp/npm-7210-50d371d7/unpack-94bc265aeea4/package.json'
+103 verbose stack     at Error (native)
+104 verbose cwd /home/cic/Desktop/CrazyEight-master
+105 error Linux 3.13.0-66-generic
+106 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "install" "--save" "package.json"
+107 error node v0.12.5
+108 error npm  v2.11.2
+109 error path /tmp/npm-7210-50d371d7/unpack-94bc265aeea4/package.json
+110 error code ENOENT
+111 error errno -2
+112 error enoent ENOENT, open '/tmp/npm-7210-50d371d7/unpack-94bc265aeea4/package.json'
+112 error enoent This is most likely not a problem with npm itself
+112 error enoent and is related to npm not being able to find a file.
+113 verbose exit [ -2, true ]
